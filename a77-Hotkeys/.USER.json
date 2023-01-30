@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "USER",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 0,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "USER"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[^ \\n]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

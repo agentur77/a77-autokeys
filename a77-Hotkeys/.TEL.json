@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "TEL",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 43,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "TEL"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[^ \\n]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
